@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<huntlist>
+    <hunt>
+        <name>UCD Hunt</name>
+        <hunt_location>53.3068311,-6.222511,16z</hunt_location>
+        <creator>Shane Carty</creator>
+
+        <clues>
+
+
+            <clue>
+                <text>"Who sponsored the main Science Centre?"</text>
+                <type>1</type>
+                <answer>Denis O'Brien|Denis O Brien|Denis o' brien</answer>
+                <location>53.308507,-6.224200,53.309202,-6.225273,53.307846,-6.225762,53.307419,-6.223416,53.308970,-6.223026</location>
+            </clue>
+
+
+           <clue>
+               <text>"On this Mound, a stone bird found, a place to lay an.. "</text>
+               <type>0</type>
+               <answer>ucd_egg</answer>
+               <location>53.3069227,-6.2234008,53.309326,-6.225269,53.307440,-6.226137,53.306668,-6.220241,53.308055,-6.218647,53.309610,-6.221364</location>
+           </clue>
+
+            <clue>
+                <text>"Check in from the 'other' lake in UCD"</text>
+                <type>2</type>
+                <answer>70</answer>
+                <location>53.305669, -6.218998</location>
+            </clue>
+
+            <clue>
+                <text>"Find the man who can walk through walls..."</text>
+                <type>0</type>
+                <answer>man_walk_through_wall</answer>
+                <location>53.306110, -6.217141,53.305655, -6.219909,53.303057, -6.219300,53.305428, -6.214873</location>
+            </clue>
+
+            <clue>
+                <text>"What is the full name of special research unit based in Comp Sci?"</text>
+                <type>1</type>
+                <answer>UCD Centre for Cybersecurity and Cybercrime Investigation|UCD Center for Cybersecurity and Cybercrime Investigation</answer>
+                <location>53.3069227,-6.2234008, 53.311050, -6.224041, 53.309849, -6.228270, 53.308437, -6.225748</location>
+            </clue>
+
+<!--
+                        <clue>
+                            <text>Take a selfie with a swan</text>
+                            <type>0</type>
+                            <answer>swan_selfie</answer>
+                            <location>53.307730,-6.222316,53.308409,-6.222694,53.307525,-6.223118,53.307018,-6.221982,53.307967,-6.221377</location>
+                        </clue>
+            -->
+
+        </clues>
+    </hunt>
+
+    <!-- Clues not implemented for the other two colleges -->
+    <hunt>
+        <name>Trinity Hunt</name>
+        <hunt_location>53.3437954,-6.2567603,17z</hunt_location>
+        <creator>Adam Moore</creator>
+
+        <clues>
+            <clue>
+                <text>trinity - clue 1</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+            <clue>
+                <text>trinity - clue 2</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+            <clue>
+                <text>trinity - clue 3</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+            <clue>
+                <text>trinity - clue 4</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+        </clues>
+
+    </hunt>
+
+    <hunt>
+
+        <name>DCU Hunt</name>
+        <hunt_location>53.3858142,-6.2611337,17z</hunt_location>
+        <creator>Stephen Gallagher</creator>
+
+        <clues>
+            <clue>
+                <text>dcu - clue 1</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+            <clue>
+                <text>dcu - clue 2</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+            <clue>
+                <text>dcu - clue 3</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+            <clue>
+                <text>dcu - clue 4</text>
+                <type>2</type>
+                <answer>{3 different sets of gps locations}</answer>
+                <location>{set of locations}</location>
+            </clue>
+        </clues>
+
+    </hunt>
+</huntlist>
+
+
+
